@@ -3,39 +3,74 @@
 
 ---
 
-<h3 id="course-description">Course Description</h3>
-<p><strong>Welcome to “Application Security Testing for Absolute Beginners”</strong></p>
-<p>In an era dominated by digital technologies and interconnected applications, the need for robust cybersecurity measures has never been more critical. “Application Security Testing for Absolute Beginners” is an entry-level course tailored to individuals with minimal prior experience in the ecosystem of application security.</p>
-<p>Application Security Testing (AST) is a proactive approach that focuses on identifying and mitigating vulnerabilities within software applications to safeguard against potential cyber threats. In this course, participants will grasp the foundational principles and practical techniques associated with securing applications from malicious exploits.</p>
-<p>Explore the significance of application security, gaining insights into the various threats and vulnerabilities that modern applications face. Understand the intricacies of web applications, dive into the fundamentals of secure coding practices, and become familiar with the tools and methodologies used in the field of security testing.</p>
-<p>This course is designed to take you from the basics of web architecture to a comprehensive understanding of application security, culminating in hands-on labs covering multiple attack vectors.</p>
-<p>So, join us and empower yourself to contribute to the creation of secure and resilient digital ecosystems.</p>
-<h3 id="what’s-in-this-course">What’s in this course?</h3>
+<h1 id="product-name-securefilevault">Product Name: SecureFileVault</h1>
+<h2 id="version-3.0">Version: 3.0</h2>
+<h3 id="release-date-august-20-2023">Release Date: August 20, 2023</h3>
+<h2 id="overview">Overview:</h2>
+<p>SecureFileVault is a comprehensive file encryption and storage solution developed by 10Pearls Organization. It provides users with a secure and user-friendly platform to store sensitive files and data while ensuring confidentiality and integrity.</p>
+<h2 id="features">Features:</h2>
 <ul>
-<li>Web architecture fundamentals</li>
-<li>The journey of a web page and how browsers work</li>
-<li>Introduction to application security</li>
-<li>OWASP Top 10</li>
-<li>Practical labs and Attack Vectors</li>
-<li>Understanding authorization and access vulnerabilities in web applications</li>
-<li>Techniques for identifying and fixing security vulnerabilities</li>
+<li><strong>Encryption</strong>: SecureFileVault utilizes strong encryption algorithms to encrypt files before storing them in the vault. This ensures that even if unauthorized access occurs, the files remain protected.</li>
+<li><strong>Access Control</strong>: Users can define access permissions for each file stored in the vault, allowing granular control over who can view, edit, or delete files.</li>
+<li><strong>Audit Trail</strong>: SecureFileVault maintains an audit trail of all file access and modification activities, providing transparency and accountability for file interactions.</li>
+<li><strong>Multi-platform Support</strong>: The platform is compatible with various operating systems, including Windows, macOS, and Linux, enabling users to access their files from any device.</li>
 </ul>
-<h3 id="what-you’ll-learn">What you’ll learn:</h3>
+<h2 id="system-requirements">System Requirements:</h2>
 <ul>
-<li>Gain a deep understanding of web application security principles</li>
-<li>Be proficient in securing web applications</li>
-<li>Master the techniques to identify, prevent, and remediate security vulnerabilities</li>
-<li>Acquire practical experience through hands-on labs</li>
+<li><strong>Operating System</strong>: Windows 10, macOS 10.13+, Ubuntu 18.04+</li>
+<li><strong>Processor</strong>: Intel Core i5 or equivalent</li>
+<li><strong>RAM</strong>: 8GB or higher</li>
+<li><strong>Storage</strong>: 100MB free disk space</li>
+<li><strong>Internet Connection</strong>: Required for initial setup and updates</li>
 </ul>
-<h3 id="who-is-this-course-for">Who is this course for?</h3>
+<h2 id="installation">Installation:</h2>
+<ol>
+<li>Download the SecureFileVault installer from the official 10Pearls website.</li>
+<li>Run the installer and follow the on-screen instructions to complete the installation process.</li>
+<li>Launch SecureFileVault and create a new user account.</li>
+<li>Set up a strong master password for accessing the vault.</li>
+<li>Start using SecureFileVault to store and manage your sensitive files securely.</li>
+</ol>
+<h2 id="user-guide">User Guide:</h2>
+<h3 id="adding-files">Adding Files:</h3>
 <ul>
-<li>Individuals interested in understanding and mitigating web application security risks</li>
-<li>Students aiming to build a strong foundation in application security</li>
-<li>Web developers looking to enhance their skills</li>
-<li>Anyone seeking to stay ahead in the dynamic field of web security</li>
+<li>Click on the “Add Files” button.</li>
+<li>Select the files you want to encrypt and store in the vault.</li>
+<li>Set access permissions for each file if needed.</li>
 </ul>
-<h3 id="are-there-any-course-requirements-or-prerequisites">Are there any course requirements or prerequisites?</h3>
+<h3 id="accessing-files">Accessing Files:</h3>
 <ul>
-<li>No prior experience with application security is required.</li>
+<li>Log in to SecureFileVault using your credentials.</li>
+<li>Navigate to the file you want to access and click on it to decrypt and view its contents.</li>
 </ul>
+<h3 id="managing-files">Managing Files:</h3>
+<ul>
+<li>Rename, delete, or update access permissions for files as needed.</li>
+<li>Monitor file activities through the audit trail feature.</li>
+</ul>
+<h2 id="configuration">Configuration:</h2>
+<ul>
+<li><strong>Master Password</strong>:
+<ul>
+<li>Change the master password regularly to enhance security.</li>
+<li>Use a combination of alphanumeric characters, symbols, and uppercase/lowercase letters for the password.</li>
+</ul>
+</li>
+<li><strong>Access Controls</strong>:
+<ul>
+<li>Define access roles and permissions for different users or user groups.</li>
+<li>Enforce strong password policies for user accounts.</li>
+</ul>
+</li>
+</ul>
+<h2 id="support">Support:</h2>
+<p>For any questions or technical support assistance, please contact our support team:</p>
+<ul>
+<li><strong>Email</strong>: <a href="mailto:support@securefilevault.com">support@securefilevault.com</a></li>
+<li><strong>Phone</strong>: +1 (800) 123-4567</li>
+<li><strong>Support Portal</strong>: <a href="https://support.securefilevault.com">https://support.securefilevault.com</a></li>
+</ul>
+<h2 id="legal-information">Legal Information:</h2>
+<p>SecureFileVault is a trademark of 10Pearls Organization. All rights reserved.</p>
+<p>This documentation provides an overview, installation instructions, user guide, and support information for SecureFileVault. For more details or assistance, please refer to the relevant sections or contact our support team.</p>
 
