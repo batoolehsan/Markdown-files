@@ -3,189 +3,74 @@
 
 ---
 
-<h1 id="product-name-data-governance-platform">Product Name: Data Governance Platform</h1>
-<h2 id="version-1.5">Version: 1.5</h2>
-<h3 id="release-date-december-12-2023">Release Date: December 12, 2023</h3>
-<h2 id="table-of-contents">Table of Contents:</h2>
+<h1 id="product-name-securefilevault">Product Name: SecureFileVault</h1>
+<h2 id="version-3.0">Version: 3.0</h2>
+<h3 id="release-date-august-20-2023">Release Date: August 20, 2023</h3>
+<h2 id="overview">Overview:</h2>
+<p>SecureFileVault is a comprehensive file encryption and storage solution developed by 10Pearls Organization. It provides users with a secure and user-friendly platform to store sensitive files and data while ensuring confidentiality and integrity.</p>
+<h2 id="features">Features:</h2>
+<ul>
+<li><strong>Encryption</strong>: SecureFileVault utilizes strong encryption algorithms to encrypt files before storing them in the vault. This ensures that even if unauthorized access occurs, the files remain protected.</li>
+<li><strong>Access Control</strong>: Users can define access permissions for each file stored in the vault, allowing granular control over who can view, edit, or delete files.</li>
+<li><strong>Audit Trail</strong>: SecureFileVault maintains an audit trail of all file access and modification activities, providing transparency and accountability for file interactions.</li>
+<li><strong>Multi-platform Support</strong>: The platform is compatible with various operating systems, including Windows, macOS, and Linux, enabling users to access their files from any device.</li>
+</ul>
+<h2 id="system-requirements">System Requirements:</h2>
+<ul>
+<li><strong>Operating System</strong>: Windows 10, macOS 10.13+, Ubuntu 18.04+</li>
+<li><strong>Processor</strong>: Intel Core i5 or equivalent</li>
+<li><strong>RAM</strong>: 8GB or higher</li>
+<li><strong>Storage</strong>: 100MB free disk space</li>
+<li><strong>Internet Connection</strong>: Required for initial setup and updates</li>
+</ul>
+<h2 id="installation">Installation:</h2>
 <ol>
-<li>
-<p><a href="#introduction">Introduction</a></p>
-</li>
-<li>
-<p><a href="#system-requirements">System Requirements</a></p>
-</li>
-<li>
-<p><a href="#installation">Installation</a></p>
-</li>
-<li>
-<p><a href="#user-guide">User Guide</a></p>
-</li>
-<li>
-<p><a href="#configuration">Configuration</a></p>
-</li>
-<li>
-<p><a href="#troubleshooting">Troubleshooting</a></p>
-</li>
-<li>
-<p><a href="#faqs">FAQs</a></p>
-</li>
-<li>
-<p><a href="#support">Support</a></p>
-</li>
+<li>Download the SecureFileVault installer from the official 10Pearls website.</li>
+<li>Run the installer and follow the on-screen instructions to complete the installation process.</li>
+<li>Launch SecureFileVault and create a new user account.</li>
+<li>Set up a strong master password for accessing the vault.</li>
+<li>Start using SecureFileVault to store and manage your sensitive files securely.</li>
 </ol>
-<h2 id="introduction">1. Introduction:</h2>
-<p>The Data Governance Platform developed by 10Pearls Organization is a robust solution designed to facilitate effective management, protection, and utilization of enterprise data assets. This platform enables organizations to establish data governance policies, ensure regulatory compliance, and improve data quality and security across the data lifecycle.</p>
-<h2 id="system-requirements">2. System Requirements:</h2>
-<h3 id="hardware-requirements">Hardware Requirements:</h3>
+<h2 id="user-guide">User Guide:</h2>
+<h3 id="adding-files">Adding Files:</h3>
 <ul>
-<li>
-<p>Processor: Intel Xeon or equivalent</p>
+<li>Click on the “Add Files” button.</li>
+<li>Select the files you want to encrypt and store in the vault.</li>
+<li>Set access permissions for each file if needed.</li>
+</ul>
+<h3 id="accessing-files">Accessing Files:</h3>
+<ul>
+<li>Log in to SecureFileVault using your credentials.</li>
+<li>Navigate to the file you want to access and click on it to decrypt and view its contents.</li>
+</ul>
+<h3 id="managing-files">Managing Files:</h3>
+<ul>
+<li>Rename, delete, or update access permissions for files as needed.</li>
+<li>Monitor file activities through the audit trail feature.</li>
+</ul>
+<h2 id="configuration">Configuration:</h2>
+<ul>
+<li><strong>Master Password</strong>:
+<ul>
+<li>Change the master password regularly to enhance security.</li>
+<li>Use a combination of alphanumeric characters, symbols, and uppercase/lowercase letters for the password.</li>
+</ul>
 </li>
-<li>
-<p>RAM: 16GB or higher</p>
-</li>
-<li>
-<p>Storage: 200GB free disk space</p>
-</li>
-<li>
-<p>Network: Gigabit Ethernet</p>
+<li><strong>Access Controls</strong>:
+<ul>
+<li>Define access roles and permissions for different users or user groups.</li>
+<li>Enforce strong password policies for user accounts.</li>
+</ul>
 </li>
 </ul>
-<h3 id="software-requirements">Software Requirements:</h3>
+<h2 id="support">Support:</h2>
+<p>For any questions or technical support assistance, please contact our support team:</p>
 <ul>
-<li>
-<p>Operating System: Linux (Ubuntu 18.04 LTS recommended)</p>
-</li>
-<li>
-<p>Database: PostgreSQL 11+</p>
-</li>
-<li>
-<p>Web Server: Apache Tomcat 9+</p>
-</li>
-<li>
-<p>Java Development Kit (JDK): Version 11+</p>
-</li>
+<li><strong>Email</strong>: <a href="mailto:support@securefilevault.com">support@securefilevault.com</a></li>
+<li><strong>Phone</strong>: +1 (800) 123-4567</li>
+<li><strong>Support Portal</strong>: <a href="https://support.securefilevault.com">https://support.securefilevault.com</a></li>
 </ul>
-<h2 id="installation">3. Installation:</h2>
-<ol>
-<li>
-<p>Install PostgreSQL database server on the target system.</p>
-</li>
-<li>
-<p>Set up Apache Tomcat as the web server for hosting the Data Governance Platform.</p>
-</li>
-<li>
-<p>Clone the Data Governance Platform repository from the official 10Pearls GitHub repository.</p>
-</li>
-<li>
-<p>Configure database settings and initialize the database schema using provided scripts.</p>
-</li>
-<li>
-<p>Deploy the platform WAR file to the Apache Tomcat webapps directory.</p>
-</li>
-<li>
-<p>Start the Apache Tomcat server and verify successful deployment by accessing the platform URL.</p>
-</li>
-</ol>
-<h2 id="user-guide">4. User Guide:</h2>
-<h3 id="getting-started">Getting Started:</h3>
-<ul>
-<li>
-<p>Logging into the Data Governance Platform</p>
-</li>
-<li>
-<p>Dashboard Overview and Navigation</p>
-</li>
-</ul>
-<h3 id="features">Features:</h3>
-<ul>
-<li>
-<p>Data Catalog and Metadata Management</p>
-</li>
-<li>
-<p>Data Quality Assessment and Remediation</p>
-</li>
-<li>
-<p>Policy Management and Enforcement</p>
-</li>
-<li>
-<p>Audit and Compliance Reporting</p>
-</li>
-</ul>
-<h3 id="how-to-guides">How-To Guides:</h3>
-<ul>
-<li>
-<p>How to Register and Document Data Assets</p>
-</li>
-<li>
-<p>How to Define Data Quality Rules and Metrics</p>
-</li>
-<li>
-<p>How to Monitor Data Governance Initiatives</p>
-</li>
-</ul>
-<h2 id="configuration">5. Configuration:</h2>
-<h3 id="data-sources-configuration">Data Sources Configuration:</h3>
-<ul>
-<li>
-<p>Connect to Database Systems, File Repositories, and Cloud Storage</p>
-</li>
-<li>
-<p>Define Data Classifications and Taxonomies</p>
-</li>
-<li>
-<p>Configure Data Lineage and Relationships</p>
-</li>
-</ul>
-<h3 id="policy-configuration">Policy Configuration:</h3>
-<ul>
-<li>
-<p>Define Data Governance Policies and Standards</p>
-</li>
-<li>
-<p>Establish Data Access Controls and Permissions</p>
-</li>
-<li>
-<p>Set up Data Retention and Archiving Policies</p>
-</li>
-</ul>
-<h3 id="integration">Integration:</h3>
-<ul>
-<li>
-<p>Integration with Identity and Access Management Systems</p>
-</li>
-<li>
-<p>API Integration with External Data Management Tools</p>
-</li>
-<li>
-<p>Export and Import Data Governance Configurations</p>
-</li>
-</ul>
-<h2 id="troubleshooting">6. Troubleshooting:</h2>
-<ul>
-<li><strong>Issue</strong>: Data Governance Platform fails to start.</li>
-</ul>
-<p><strong>Solution</strong>: Check Tomcat server logs for error messages. Verify database connectivity and configurations.</p>
-<ul>
-<li><strong>Issue</strong>: Data catalog is not displaying updated information.</li>
-</ul>
-<p><strong>Solution</strong>: Refresh metadata cache or trigger metadata synchronization process. Ensure data sources are accessible.</p>
-<h2 id="faqs">7. FAQs:</h2>
-<p><strong>Q1</strong>: Can the Data Governance Platform handle big data and streaming data sources?</p>
-<p><strong>Answer</strong>: Yes, the platform supports integration with big data frameworks and streaming data platforms for comprehensive data governance.</p>
-<p><strong>Q2</strong>: Is it possible to customize data governance policies and workflows?</p>
-<p><strong>Answer</strong>: Absolutely, the platform offers extensive customization options for defining policies, workflows, and notifications based on organizational requirements.</p>
-<h2 id="support">8. Support:</h2>
-<ul>
-<li>
-<p><strong>Email</strong>: <a href="mailto:datagov-support@10pearls.com">datagov-support@10pearls.com</a></p>
-</li>
-<li>
-<p><strong>Phone</strong>: (021) 34328447</p>
-</li>
-<li>
-<p><strong>Support Portal</strong>: <a href="https://datagov-support.10pearls.com">https://datagov-support.10pearls.com</a></p>
-</li>
-</ul>
-<p>This documentation serves as a comprehensive</p>
+<h2 id="legal-information">Legal Information:</h2>
+<p>SecureFileVault is a trademark of 10Pearls Organization. All rights reserved.</p>
+<p>This documentation provides an overview, installation instructions, user guide, and support information for SecureFileVault. For more details or assistance, please refer to the relevant sections or contact our support team.</p>
 
