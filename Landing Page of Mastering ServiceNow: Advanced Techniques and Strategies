@@ -1,0 +1,45 @@
+---
+
+
+---
+
+<h3 id="course-description">Course Description</h3>
+<p><strong>Welcome to “Mastering ServiceNow: Advanced Techniques and Strategies”</strong></p>
+<p>ServiceNow is a widely used cloud-based platform that helps companies manage various tasks and services more efficiently. One of its key strengths is automation, which means it can handle routine tasks without human intervention. This has led to a significant reduction in the time it takes to solve issues – up to 50% faster, according to reports.</p>
+<p>The platform’s flexibility and scalability make it a pivotal tool for organizations seeking efficiency in not just IT operations but across the entire enterprise. Certainly intriguing, isn’t it? If you’re ready to dive into the world of ServiceNow, our “Introduction to ServiceNow” course is the perfect starting point.</p>
+<p>Ready to take your ServiceNow skills to the next level? This Intermediate ServiceNow Development course serves as your gateway to advanced concepts, helping you elevate your expertise to new heights. This course dives into key modules such as Business Rules, Script Includes, Client Scripts, UI Actions, Transform Scripts, and Notification Scripts with practical demonstrations of each. From mastering Business Rules for workflow automation to creating dynamic user interfaces with Client Scripts and enhancing data transformation with Transform Scripts, participants will gain proficiency in crucial ServiceNow functionalities.</p>
+<p>The course emphasizes best practices, ensuring that learners not only understand the components of each module but also develop the skills to create scalable, efficient, and business-aligned ServiceNow applications. Enroll now and engage in interactive learning, apply theoretical knowledge through demos, and emerge ready to contribute effectively to ServiceNow projects, enhancing your IT service management capabilities.</p>
+<p>Happy Learning!</p>
+<h3 id="what’s-in-this-course">What’s in this course?</h3>
+<ul>
+<li>Business Rules</li>
+<li>Script Includes</li>
+<li>Scheduled Jobs</li>
+<li>UI Actions Email</li>
+<li>Notification Script</li>
+<li>Transform Script</li>
+<li>UI Page</li>
+<li>Workflow Flow Scripting</li>
+</ul>
+<h3 id="what-you’ll-learn">What you’ll learn:</h3>
+<ul>
+<li>Apply essential ServiceNow scripting languages (Jelly, JavaScript).</li>
+<li>Leverage Business Rules for automated workflows and decision-making.</li>
+<li>Design dynamic user interfaces with Client Scripts and UI Actions.</li>
+<li>Utilize Transform Scripts for effective data manipulation and integration.</li>
+<li>Craft efficient Notification Scripts for timely communication.</li>
+<li>Implement best practices for secure and scalable ServiceNow development</li>
+</ul>
+<h3 id="are-there-any-course-requirements-or-prerequisites">Are there any course requirements or prerequisites?</h3>
+<ul>
+<li>Basic understanding of the ServiceNow platform</li>
+<li>Familiarity with scripting languages (JavaScript, specifically) is beneficial but not mandatory.</li>
+</ul>
+<h3 id="who-this-course-is-for">Who this course is for?</h3>
+<ul>
+<li>ServiceNow developers aiming to broaden their skill set.</li>
+<li>IT professionals responsible for ServiceNow implementation and management.</li>
+<li>System administrators seeking to optimize ServiceNow configurations.</li>
+<li>Aspiring ServiceNow developers looking to advance their IT service management careers.</li>
+</ul>
+
