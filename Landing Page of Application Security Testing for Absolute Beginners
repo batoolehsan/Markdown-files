@@ -1,0 +1,41 @@
+---
+
+
+---
+
+<h3 id="course-description">Course Description</h3>
+<p><strong>Welcome to “Application Security Testing for Absolute Beginners”</strong></p>
+<p>In an era dominated by digital technologies and interconnected applications, the need for robust cybersecurity measures has never been more critical. “Application Security Testing for Absolute Beginners” is an entry-level course tailored to individuals with minimal prior experience in the ecosystem of application security.</p>
+<p>Application Security Testing (AST) is a proactive approach that focuses on identifying and mitigating vulnerabilities within software applications to safeguard against potential cyber threats. In this course, participants will grasp the foundational principles and practical techniques associated with securing applications from malicious exploits.</p>
+<p>Explore the significance of application security, gaining insights into the various threats and vulnerabilities that modern applications face. Understand the intricacies of web applications, dive into the fundamentals of secure coding practices, and become familiar with the tools and methodologies used in the field of security testing.</p>
+<p>This course is designed to take you from the basics of web architecture to a comprehensive understanding of application security, culminating in hands-on labs covering multiple attack vectors.</p>
+<p>So, join us and empower yourself to contribute to the creation of secure and resilient digital ecosystems.</p>
+<h3 id="what’s-in-this-course">What’s in this course?</h3>
+<ul>
+<li>Web architecture fundamentals</li>
+<li>The journey of a web page and how browsers work</li>
+<li>Introduction to application security</li>
+<li>OWASP Top 10</li>
+<li>Practical labs and Attack Vectors</li>
+<li>Understanding authorization and access vulnerabilities in web applications</li>
+<li>Techniques for identifying and fixing security vulnerabilities</li>
+</ul>
+<h3 id="what-you’ll-learn">What you’ll learn:</h3>
+<ul>
+<li>Gain a deep understanding of web application security principles</li>
+<li>Be proficient in securing web applications</li>
+<li>Master the techniques to identify, prevent, and remediate security vulnerabilities</li>
+<li>Acquire practical experience through hands-on labs</li>
+</ul>
+<h3 id="who-is-this-course-for">Who is this course for?</h3>
+<ul>
+<li>Individuals interested in understanding and mitigating web application security risks</li>
+<li>Students aiming to build a strong foundation in application security</li>
+<li>Web developers looking to enhance their skills</li>
+<li>Anyone seeking to stay ahead in the dynamic field of web security</li>
+</ul>
+<h3 id="are-there-any-course-requirements-or-prerequisites">Are there any course requirements or prerequisites?</h3>
+<ul>
+<li>No prior experience with application security is required.</li>
+</ul>
+
