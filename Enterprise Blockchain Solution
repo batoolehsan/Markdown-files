@@ -3,182 +3,74 @@
 
 ---
 
-<h1 id="product-name-enterprise-blockchain-solution">Product Name: Enterprise Blockchain Solution</h1>
-<p><strong>Version:</strong> 3.5</p>
-<p><strong>Release Date:</strong> March 20, 2024</p>
-<h2 id="table-of-contents">Table of Contents:</h2>
+<h1 id="product-name-securefilevault">Product Name: SecureFileVault</h1>
+<h2 id="version-3.0">Version: 3.0</h2>
+<h3 id="release-date-august-20-2023">Release Date: August 20, 2023</h3>
+<h2 id="overview">Overview:</h2>
+<p>SecureFileVault is a comprehensive file encryption and storage solution developed by 10Pearls Organization. It provides users with a secure and user-friendly platform to store sensitive files and data while ensuring confidentiality and integrity.</p>
+<h2 id="features">Features:</h2>
+<ul>
+<li><strong>Encryption</strong>: SecureFileVault utilizes strong encryption algorithms to encrypt files before storing them in the vault. This ensures that even if unauthorized access occurs, the files remain protected.</li>
+<li><strong>Access Control</strong>: Users can define access permissions for each file stored in the vault, allowing granular control over who can view, edit, or delete files.</li>
+<li><strong>Audit Trail</strong>: SecureFileVault maintains an audit trail of all file access and modification activities, providing transparency and accountability for file interactions.</li>
+<li><strong>Multi-platform Support</strong>: The platform is compatible with various operating systems, including Windows, macOS, and Linux, enabling users to access their files from any device.</li>
+</ul>
+<h2 id="system-requirements">System Requirements:</h2>
+<ul>
+<li><strong>Operating System</strong>: Windows 10, macOS 10.13+, Ubuntu 18.04+</li>
+<li><strong>Processor</strong>: Intel Core i5 or equivalent</li>
+<li><strong>RAM</strong>: 8GB or higher</li>
+<li><strong>Storage</strong>: 100MB free disk space</li>
+<li><strong>Internet Connection</strong>: Required for initial setup and updates</li>
+</ul>
+<h2 id="installation">Installation:</h2>
 <ol>
-<li>
-<p><a href="#introduction">Introduction</a></p>
-</li>
-<li>
-<p><a href="#system-requirements">System Requirements</a></p>
-</li>
-<li>
-<p><a href="#installation">Installation</a></p>
-</li>
-<li>
-<p><a href="#user-guide">User Guide</a></p>
-</li>
-<li>
-<p><a href="#configuration">Configuration</a></p>
-</li>
-<li>
-<p><a href="#troubleshooting">Troubleshooting</a></p>
-</li>
-<li>
-<p><a href="#faqs">FAQs</a></p>
-</li>
-<li>
-<p><a href="#support">Support</a></p>
-</li>
+<li>Download the SecureFileVault installer from the official 10Pearls website.</li>
+<li>Run the installer and follow the on-screen instructions to complete the installation process.</li>
+<li>Launch SecureFileVault and create a new user account.</li>
+<li>Set up a strong master password for accessing the vault.</li>
+<li>Start using SecureFileVault to store and manage your sensitive files securely.</li>
 </ol>
-<h2 id="introduction">1. Introduction:</h2>
-<p>The Enterprise Blockchain Solution developed by 10Pearls Organization is a sophisticated platform designed to empower organizations with the benefits of blockchain technology. This solution enables secure, transparent, and decentralized transactions, data management, and digital asset exchange across various industries, including finance, supply chain, healthcare, and more.</p>
-<h2 id="system-requirements">2. System Requirements:</h2>
-<p><strong>Hardware Requirements:</strong></p>
+<h2 id="user-guide">User Guide:</h2>
+<h3 id="adding-files">Adding Files:</h3>
 <ul>
-<li>
-<p>Processor: Intel Xeon or equivalent</p>
+<li>Click on the “Add Files” button.</li>
+<li>Select the files you want to encrypt and store in the vault.</li>
+<li>Set access permissions for each file if needed.</li>
+</ul>
+<h3 id="accessing-files">Accessing Files:</h3>
+<ul>
+<li>Log in to SecureFileVault using your credentials.</li>
+<li>Navigate to the file you want to access and click on it to decrypt and view its contents.</li>
+</ul>
+<h3 id="managing-files">Managing Files:</h3>
+<ul>
+<li>Rename, delete, or update access permissions for files as needed.</li>
+<li>Monitor file activities through the audit trail feature.</li>
+</ul>
+<h2 id="configuration">Configuration:</h2>
+<ul>
+<li><strong>Master Password</strong>:
+<ul>
+<li>Change the master password regularly to enhance security.</li>
+<li>Use a combination of alphanumeric characters, symbols, and uppercase/lowercase letters for the password.</li>
+</ul>
 </li>
-<li>
-<p>RAM: 16GB or higher</p>
-</li>
-<li>
-<p>Storage: 100GB free disk space (SSD recommended)</p>
-</li>
-<li>
-<p>Network: Gigabit Ethernet</p>
+<li><strong>Access Controls</strong>:
+<ul>
+<li>Define access roles and permissions for different users or user groups.</li>
+<li>Enforce strong password policies for user accounts.</li>
+</ul>
 </li>
 </ul>
-<p><strong>Software Requirements:</strong></p>
+<h2 id="support">Support:</h2>
+<p>For any questions or technical support assistance, please contact our support team:</p>
 <ul>
-<li>
-<p>Operating System: Linux (Ubuntu 20.04 LTS recommended)</p>
-</li>
-<li>
-<p>Docker Engine: Version 20.10+</p>
-</li>
-<li>
-<p>Kubernetes: Version 1.22+</p>
-</li>
-<li>
-<p>Blockchain Framework: Hyperledger Fabric 2.4+</p>
-</li>
+<li><strong>Email</strong>: <a href="mailto:support@securefilevault.com">support@securefilevault.com</a></li>
+<li><strong>Phone</strong>: +1 (800) 123-4567</li>
+<li><strong>Support Portal</strong>: <a href="https://support.securefilevault.com">https://support.securefilevault.com</a></li>
 </ul>
-<h2 id="installation">3. Installation:</h2>
-<ol>
-<li>
-<p>Deploy Kubernetes cluster using preferred cloud provider or on-premises infrastructure.</p>
-</li>
-<li>
-<p>Install Docker Engine and Kubernetes components on the cluster nodes.</p>
-</li>
-<li>
-<p>Clone the Enterprise Blockchain Solution repository from the official 10Pearls GitHub repository.</p>
-</li>
-<li>
-<p>Configure network settings, cryptographic materials, and consensus mechanisms.</p>
-</li>
-<li>
-<p>Deploy the blockchain network using Kubernetes manifests or Helm charts provided.</p>
-</li>
-<li>
-<p>Verify successful deployment and initialize the network.</p>
-</li>
-</ol>
-<h2 id="user-guide">4. User Guide:</h2>
-<p><strong>Getting Started:</strong></p>
-<ul>
-<li>
-<p>Accessing the Blockchain Network</p>
-</li>
-<li>
-<p>Creating and Managing User Accounts</p>
-</li>
-</ul>
-<p><strong>Features:</strong></p>
-<ul>
-<li>
-<p>Smart Contract Development and Deployment</p>
-</li>
-<li>
-<p>Transaction Processing and Validation</p>
-</li>
-<li>
-<p>Data Encryption and Privacy Controls</p>
-</li>
-<li>
-<p>Consortium Governance and Membership Management</p>
-</li>
-</ul>
-<p><strong>How-To Guides:</strong></p>
-<ul>
-<li>
-<p>How to Develop and Deploy Smart Contracts</p>
-</li>
-<li>
-<p>How to Execute Transactions on the Blockchain Network</p>
-</li>
-<li>
-<p>How to Monitor Network Performance and Health</p>
-</li>
-</ul>
-<h2 id="configuration">5. Configuration:</h2>
-<p><strong>Network Configuration:</strong></p>
-<ul>
-<li>
-<p>Peer Node Configuration</p>
-</li>
-<li>
-<p>Ordering Service Configuration</p>
-</li>
-<li>
-<p>Channel Configuration</p>
-</li>
-</ul>
-<p><strong>Security Configuration:</strong></p>
-<ul>
-<li>
-<p>Identity Management and Authentication</p>
-</li>
-<li>
-<p>Access Control Policies</p>
-</li>
-<li>
-<p>Data Encryption and Key Management</p>
-</li>
-</ul>
-<p><strong>Integration:</strong></p>
-<ul>
-<li>
-<p>Integration with External Systems via REST APIs</p>
-</li>
-<li>
-<p>Integration with Identity Providers (e.g., LDAP, OAuth)</p>
-</li>
-</ul>
-<h2 id="troubleshooting">6. Troubleshooting:</h2>
-<p><strong>Issue:</strong> Blockchain network nodes fail to synchronize.</p>
-<p><strong>Solution:</strong> Check network connectivity and peer configurations. Restart peer nodes if necessary.</p>
-<p><strong>Issue:</strong> Smart contract transactions are not being committed to the ledger.</p>
-<p><strong>Solution:</strong> Verify smart contract code and endorsement policies. Debug and redeploy smart contracts if needed.</p>
-<h2 id="faqs">7. FAQs:</h2>
-<p><strong>Q1:</strong> Is the Enterprise Blockchain Solution suitable for small-scale deployments?</p>
-<p><strong>Answer:</strong> Yes, the solution is designed to scale from small-scale deployments to enterprise-grade networks, providing flexibility and scalability.</p>
-<p><strong>Q2:</strong> Can the blockchain network be extended to include external participants?</p>
-<p><strong>Answer:</strong> Absolutely, the solution supports consortium configurations, allowing organizations to collaborate and extend the network to external partners.</p>
-<h2 id="support">8. Support:</h2>
-<ul>
-<li>
-<p>Email: <a href="mailto:blockchain-support@10pearls.com">blockchain-support@10pearls.com</a></p>
-</li>
-<li>
-<p>Phone: (021) 34328447</p>
-</li>
-<li>
-<p>Support Portal: <a href="https://blockchain-support.10pearls.com">https://blockchain-support.10pearls.com</a></p>
-</li>
-</ul>
-<p>This documentation serves as a comprehensive guide for utilizing the Enterprise Blockchain Solution developed by 10Pearls Organization. For further assistance or inquiries, please contact our dedicated support team.</p>
+<h2 id="legal-information">Legal Information:</h2>
+<p>SecureFileVault is a trademark of 10Pearls Organization. All rights reserved.</p>
+<p>This documentation provides an overview, installation instructions, user guide, and support information for SecureFileVault. For more details or assistance, please refer to the relevant sections or contact our support team.</p>
 
