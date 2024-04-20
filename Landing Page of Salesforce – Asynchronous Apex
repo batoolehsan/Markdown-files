@@ -1,0 +1,53 @@
+---
+
+
+---
+
+<h3 id="course-description">Course Description</h3>
+<p><strong>Welcome to “Salesforce – Asynchronous Apex”</strong></p>
+<p>Mastering the basics is crucial for solving complex problems. This course serves as an introduction to the fundamental concept of ‘Asynchronous Apex’, vital for those aiming for a Salesforce developer role.</p>
+<p><strong>What is the meaning of the word Asynchronous:</strong></p>
+<p>Not occurring or existing at the same time or having the same period or phase.</p>
+<p>Due to limitations imposed by Salesforce, real-time processing is not feasible for certain use cases. Such instances should be addressed using ‘Asynchronous Apex’, such as:</p>
+<ul>
+<li>Cannot do callout after a DML operation.</li>
+<li>DML operations on setup objects are not allowed after updating a non-setup object.</li>
+<li>For jobs involving large data volumes, such as database maintenance, invoice generation, or payroll processing.</li>
+<li>Job chaining.</li>
+<li>To schedule a job for execution at a specific interval.</li>
+</ul>
+<p><strong>What is Salesforce?</strong></p>
+<p>Salesforce is renowned as the leading cloud-based CRM (customer relationship management) platform globally. It aids in overseeing a company’s sales, marketing, customer support, and other business aspects. Salesforce achieved its prominence due to its cloud-based CRM software, hosted on Salesforce servers, allowing access for customers and developers via an internet connection and login credentials.</p>
+<p><strong>Keen to discover more about what unfolds within the Salesforce ecosystem, particularly for developers?</strong></p>
+<p>There aren’t many Salesforce courses available, but we’ve got you covered. Upon finishing the course, you will gain a comprehensive understanding of utilizing Salesforce as a platform to construct tailored business solutions.</p>
+<p>If you’re seeking a fundamental understanding, we offer a range of Salesforce courses. You can explore the introductory courses here. Happy Learning.</p>
+<h3 id="what’s-in-this-course">What’s in this course?</h3>
+<p>The course focuses entirely on the asynchronous processing and manipulation of records.</p>
+<h3 id="what-will-you-learn">What will you learn?</h3>
+<p>By the completion of this course, students will learn:</p>
+<ul>
+<li>Introduction to Apex Transactions</li>
+<li>Introduction to Asynchronous Apex</li>
+<li>Asynchronous Apex Features:
+<ul>
+<li>Future Method</li>
+<li>Batch Class</li>
+<li>Queueable Apex</li>
+<li>Scheduled Class</li>
+</ul>
+</li>
+<li>Summary</li>
+</ul>
+<h3 id="who-is-this-course-for"><strong>Who is this course for?</strong></h3>
+<ul>
+<li>Students who have learned Object-Oriented Programming, completed beginner-level Salesforce courses, and aimed to advance their careers as Salesforce developers.</li>
+<li>Professionals with under 1 year of experience in any technology and are in the initial stages of transitioning into Salesforce development.</li>
+</ul>
+<h3 id="are-there-any-course-requirements-or-prerequisites"><strong>Are there any course requirements or prerequisites?</strong></h3>
+<ul>
+<li>An understanding of (variables, data types, For loops, If/else conditions, instance and static methods, and SQL queries).</li>
+<li>Object Oriented Programming concepts.</li>
+<li>Students or professionals who have completed beginner-level Salesforce courses.</li>
+<li>Basic understanding of CRM software and cloud technologies.</li>
+</ul>
+
