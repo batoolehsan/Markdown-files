@@ -29,7 +29,35 @@
 <h2 id="what-you’ll-learn">What you’ll learn:</h2>
 <ul>
 <li>Understand the concept of cloud computing and its significance in today’s tech landscape.</li>
-<li>Understand the various cloud computing architectures and deployment models.</li>
+<li>Understand the various cloud computing architectures and deployment models. ### Course Description</li>
+</ul>
+<p><strong>Welcome to the course “Introduction to Computer Science”</strong></p>
+<p>Step into the world of computing with our “Introduction to Computer Science” course—the first step in your exciting journey. This course is carefully crafted to give you the essential knowledge and skills needed to explore the digital world, regardless of your prior experience or future career aspirations.</p>
+<p>Covering a spectrum of topics from computer components to emerging technologies, the course provides a holistic understanding of the field, laying a solid groundwork for subsequent courses in the bootcamp.</p>
+<p>This course is your gateway to the world of tech. Let’s dive right in!</p>
+<h4 id="learning-outcomes">Learning outcomes:</h4>
+<ul>
+<li><strong>Foundational Knowledge:</strong>  Participants will gain a comprehensive understanding of computer science fundamentals, including the historical evolution of computing systems and the essential components of computers.</li>
+<li><strong>Technical Proficiency:</strong>  Learners develop practical skills in operating systems, programming basics, data management, and networking, enabling them to confidently navigate and troubleshoot various computing environments</li>
+<li><strong>Critical Thinking:</strong>  The course cultivates critical thinking and problem-solving skills through the exploration of algorithmic thinking, data analysis, and ethical considerations, providing a solid foundation for addressing complex challenges.</li>
+<li><strong>Ethical Awareness:</strong>  Participants will develop a strong sense of ethical awareness, making informed decisions in areas such as cybersecurity, and data privacy, and understanding the broader social impact of technology.</li>
+<li><strong>Chart your path in the IT industry:</strong>  Learners will be well-prepared for advanced studies in computer science or related fields. Moreover, the course also offers insights into diverse IT careers, aiding individuals in making informed professional choices.</li>
+</ul>
+<h4 id="what’s-in-this-course-1">What’s in this course?</h4>
+<ul>
+<li>Introduction to Computers and their Components</li>
+<li>Operating Systems</li>
+<li>Software and Applications</li>
+<li>Introduction to Programming</li>
+<li>Data and Information</li>
+<li>Networking and Cybersecurity</li>
+<li>Introduction to Data Analytics</li>
+<li>Social and Ethical Considerations</li>
+<li>Future Trends in Computing</li>
+</ul>
+<h4 id="courses-in-this-category">Courses in this category:</h4>
+<ul>
+<li>This category features a single course, with a duration of 3 hours.</li>
 <li>Gain insights into cloud management best practices and tools.</li>
 <li>Stay informed about the latest trends in cloud computing, including multi-cloud strategies, serverless computing, and the integration of AI/ML.</li>
 </ul>
