@@ -1,0 +1,90 @@
+---
+
+
+---
+
+<h1 id="release-notes">Release Notes</h1>
+<p><strong>Product Name:</strong> SecureComm</p>
+<p><strong>Version:</strong> 3.5</p>
+<p><strong>Release Date:</strong> June 12, 2023</p>
+<hr>
+<p><strong>Overview:</strong></p>
+<p>SecureComm 3.5 introduces new features and enhancements focused on improving communication security, enhancing user experience, and providing greater flexibility in collaboration across teams.</p>
+<hr>
+<p><strong>New Features:</strong></p>
+<ol>
+<li>
+<p><strong>End-to-End Encryption:</strong></p>
+<ul>
+<li>SecureComm now supports end-to-end encryption for all communication channels, including voice calls, video conferencing, and instant messaging.</li>
+<li>Ensures that all communications are securely encrypted from sender to recipient, protecting sensitive information from unauthorized access.</li>
+</ul>
+</li>
+<li>
+<p><strong>Multi-Factor Authentication (MFA):</strong></p>
+<ul>
+<li>Introduces support for multi-factor authentication (MFA) to enhance the security of user accounts.</li>
+<li>Users can configure additional authentication factors such as OTP, biometric verification, or hardware tokens to further protect their accounts from unauthorized access.</li>
+</ul>
+</li>
+<li>
+<p><strong>File Transfer Encryption:</strong></p>
+<ul>
+<li>Adds encryption capabilities for file transfers within SecureComm, ensuring that files shared between users are securely encrypted during transit and at rest.</li>
+<li>Enhances data protection and confidentiality for sensitive files exchanged through the platform.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p><strong>Enhancements:</strong></p>
+<ol>
+<li>
+<p><strong>Improved User Interface:</strong></p>
+<ul>
+<li>Enhances the user interface with a modern and intuitive design, making it easier for users to navigate the application and access key features.</li>
+<li>Improves user experience and usability, resulting in increased productivity and satisfaction.</li>
+</ul>
+</li>
+<li>
+<p><strong>Performance Optimization:</strong></p>
+<ul>
+<li>Optimizes performance and responsiveness of the SecureComm application, reducing latency and improving overall system stability.</li>
+<li>Enhances scalability to accommodate increased usage and larger user bases without compromising performance.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p><strong>Bug Fixes:</strong></p>
+<ol>
+<li>
+<p><strong>Resolved Audio/Video Issues:</strong></p>
+<ul>
+<li>Fixes issues related to audio and video quality during voice and video calls, ensuring clear and uninterrupted communication.</li>
+<li>Addresses audio/video synchronization issues and improves overall call quality and reliability.</li>
+</ul>
+</li>
+<li>
+<p><strong>Fixed Compatibility Issues:</strong></p>
+<ul>
+<li>Resolves compatibility issues with certain devices and operating systems, ensuring seamless integration and compatibility across various platforms.</li>
+<li>Improves interoperability and ensures a consistent user experience across different environments.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p><strong>Known Issues:</strong></p>
+<ol>
+<li><strong>Limited Mobile Device Support:</strong>
+<ul>
+<li>Users may experience limitations in functionality when using SecureComm on certain mobile devices or operating systems.</li>
+<li>Workarounds involve using the web-based version of SecureComm on mobile browsers for full functionality.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p><strong>Feedback and Support:</strong></p>
+<p>We value your feedback on SecureComm 3.5. If you encounter any issues or have suggestions for improvement, please contact our support team at <a href="mailto:support@securecomm.com">support@securecomm.com</a>. Thank you for choosing SecureComm for your secure communication needs!</p>
+<hr>
+<p><strong>Legal Notice:</strong></p>
+<p>SecureComm is a trademark of 10Pearls Organization. All right</p>
+
