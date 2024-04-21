@@ -1,0 +1,90 @@
+---
+
+
+---
+
+<h1 id="release-notes">Release Notes</h1>
+<p><strong>Product Name:</strong> EventMaster</p>
+<p><strong>Version:</strong> 2.0</p>
+<p><strong>Release Date:</strong> August 30, 2023</p>
+<hr>
+<p><strong>Overview:</strong></p>
+<p>EventMaster 2.0 brings a host of new features and improvements to streamline event management, enhance attendee experience, and provide organizers with powerful tools for planning and executing successful events.</p>
+<hr>
+<p><strong>New Features:</strong></p>
+<ul>
+<li>
+<p><strong>Event Registration Portal:</strong></p>
+<ul>
+<li>Introduces a customizable event registration portal where attendees can register for events, purchase tickets, and manage their registrations.</li>
+<li>Provides organizers with real-time registration data and attendee insights to better understand attendee demographics and preferences.</li>
+</ul>
+</li>
+<li>
+<p><strong>Session Scheduling and Management:</strong></p>
+<ul>
+<li>Adds session scheduling and management capabilities, allowing organizers to create and manage event agendas, schedule sessions, and assign speakers.</li>
+<li>Enables attendees to view session details, add sessions to their personalized agenda, and receive reminders for upcoming sessions.</li>
+</ul>
+</li>
+<li>
+<p><strong>Networking and Engagement Tools:</strong></p>
+<ul>
+<li>Enhances attendee networking and engagement with features such as attendee profiles, messaging, and virtual networking lounges.</li>
+<li>Facilitates meaningful connections between attendees, speakers, and sponsors, fostering collaboration and interaction throughout the event.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Enhancements:</strong></p>
+<ul>
+<li>
+<p><strong>Improved Ticketing System:</strong></p>
+<ul>
+<li>Enhances the ticketing system with support for multiple ticket types, discounts, and promotional codes.</li>
+<li>Provides organizers with greater flexibility in ticket management and pricing strategies to maximize event revenue.</li>
+</ul>
+</li>
+<li>
+<p><strong>Enhanced Analytics and Reporting:</strong></p>
+<ul>
+<li>Improves analytics and reporting capabilities with new reports and dashboards to track event performance, attendance metrics, and ROI.</li>
+<li>Enables organizers to measure the success of their events and make data-driven decisions for future planning and optimization.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Bug Fixes:</strong></p>
+<ul>
+<li>
+<p><strong>Resolved Payment Processing Issues:</strong></p>
+<ul>
+<li>Fixes issues related to payment processing, ensuring smooth and secure transactions for event ticket purchases and registrations.</li>
+<li>Addresses payment gateway integration issues and improves reliability of payment processing workflows.</li>
+</ul>
+</li>
+<li>
+<p><strong>Fixed User Interface Bugs:</strong></p>
+<ul>
+<li>Resolves user interface bugs and inconsistencies to provide a more polished and cohesive user experience.</li>
+<li>Improves usability and navigation within the EventMaster platform for organizers and attendees.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Known Issues:</strong></p>
+<ul>
+<li><strong>Limited Mobile App Functionality:</strong>
+<ul>
+<li>Users may experience limitations in functionality when using the EventMaster mobile app on certain devices or operating systems.</li>
+<li>Workarounds involve using the web-based version of EventMaster on mobile browsers for full functionality.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Feedback and Support:</strong></p>
+<p>We value your feedback on EventMaster 2.0. If you encounter any issues or have suggestions for improvement, please contact our support team at <a href="mailto:support@eventmaster.com">support@eventmaster.com</a>. Thank you for choosing EventMaster for your event management needs!</p>
+<hr>
+<p><strong>Legal Notice:</strong></p>
+<p>EventMaster is a trademark of 10Pearls Organization. All rights reserved.</p>
+
